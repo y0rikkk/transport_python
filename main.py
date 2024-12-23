@@ -7,6 +7,7 @@ window.title("Транспорт")
 window.geometry("1400x720")
 window.minsize(750, 400)
 
+#adding comment for lab
 
 class Transport:
     def __init__(self, db_id, type, capacity, length, width, height, reservation_date):
